@@ -9,7 +9,7 @@
     
     const initEmotesPromise = (async () => {
         addVanillaEmotes();
-        await addBttvEmotes(["worthlessvoid", "tO_Ot", "MrTommymxr", "BlatnoyTheBest", "KooriChi", "WeedTooDank", "fREAST", "MashJDW", "KingTheTurtle", "tehMorag", "uhavebadpc", "Daniil_Knya7z", "P3NTAZ", "Rooph1e", "rtainc", "NinjaChris77", "KKomrade", "hewooo", "nl_Kripp", "garych", "skinnedteen", "SarcasmDetected", "Revvlo", "LUUAP", "rynlikesfood", "Seremendal", "adew", "pheomnomnom", "dLited", "Damansnarf", "thiccboisinc"]);
+        await addBttvEmotes(["worthlessvoid", "tO_Ot", "MrTommymxr", "BlatnoyTheBest", "KooriChi", "WeedTooDank", "fREAST", "MashJDW", "KingTheTurtle", "tehMorag", "uhavebadpc", "P3NTAZ", "Rooph1e", "rtainc", "NinjaChris77", "KKomrade", "hewooo", "nl_Kripp", "garych", "skinnedteen", "SarcasmDetected", "Revvlo", "LUUAP", "rynlikesfood", "Seremendal", "adew", "pheomnomnom", "dLited", "Damansnarf", "thiccboisinc", "Lheet", "numrii", "underflowR"]);
         console.log(`${Object.keys(emotes).length} emotes registered`);
         emotesRegex = buildEmotesRegex();
     })();
