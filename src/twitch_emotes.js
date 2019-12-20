@@ -1,0 +1,1 @@
+/home/danhau/mmo/extracted/browser/twitch_emotes.js
