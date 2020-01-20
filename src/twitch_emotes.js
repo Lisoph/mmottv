@@ -1,1 +1,1 @@
-/home/danhau/mmo/extracted/browser/twitch_emotes.js
+../../extracted/browser/twitch_emotes.js
